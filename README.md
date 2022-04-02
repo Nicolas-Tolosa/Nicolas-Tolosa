@@ -1,4 +1,4 @@
-# Let me introduce myself
+# Let me introduce myself 👋
 - Hi, I'm @Nicolas-Tolosa, I have 23 years old
 - I'm interested in Data Science
 - I'm currently studying an business administrator degree and learning R language 
